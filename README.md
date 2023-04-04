@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Native, Express, MongoDB**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Redux, MEARN**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Redux, MERN**
 
 - 📫 How to reach me **cotruta.andy@yahoo.com**
 
